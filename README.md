@@ -1,2 +1,2 @@
-# ubiquitous-potato
-Capestone project -2
+#EDA
+Capestone project 
